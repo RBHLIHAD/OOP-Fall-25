@@ -12,7 +12,7 @@ public class PrintAtoZUsingWhileLoop {
         {
             System.out.println(" " +i);
             
-            if(i=='k')
+            if(i=='T')
             {
                 break;
             }
